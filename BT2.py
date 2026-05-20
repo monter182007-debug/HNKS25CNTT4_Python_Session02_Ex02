@@ -1,7 +1,3 @@
-# Phan tich loi
-# Toan tu or dang bi su dung sai
-# Toan tu or thi la 1 trong 2 dieu kien dung thi se ra dung dung
-# Toan tu and thi phai 2 dieu kien dung moi in ra dung
 
 # Sua code
 print("----- BLOOD DONOR SCREENIG SYSTEM---")
